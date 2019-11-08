@@ -1,0 +1,79 @@
+{
+  "organizations" : {
+    "-LshvnpZX66vsZhWsj-P" : {
+      "classification" : "university",
+      "description" : "located in madaraka",
+      "emailPattern" : "leah.kamau716@strathmore.edu",
+      "name" : "strathmore university",
+      "website" : "strathmore.edu"
+    },
+    "-LskzpD09CRG7HqVxneB" : {
+      "classification" : "business",
+      "description" : "stima",
+      "emailPattern" : "leah@kplc.org",
+      "name" : "kplc",
+      "website" : "kplc.org"
+    },
+    "-LslLe2colNH_aJWFEsk" : {
+      "classification" : "business",
+      "description" : "popo road",
+      "emailPattern" : "jay@kebs.org",
+      "name" : "kebs",
+      "website" : "kebs.org"
+    },
+    "-LslNj9u9-Zqgc0y9Rqv" : {
+      "classification" : "university",
+      "description" : "chiromo",
+      "emailPattern" : "leah@uon.com",
+      "name" : "uon",
+      "website" : "uon.com"
+    }
+  },
+  "user-organizations" : {
+    "y6XMHyPBEvgVwEVl1XPh3XzYMys1" : {
+      "-LslLe2colNH_aJWFEsk" : {
+        "name" : "kebs",
+        "userOrganizationEmail" : "me@krbs.org"
+      },
+      "-LslNj9u9-Zqgc0y9Rqv" : {
+        "name" : "uon",
+        "userOrganizationEmail" : "leah@uon.com"
+      }
+    }
+  },
+  "users" : {
+    "4SUyGeAtVZY8TClq6TymOIDLfXm2" : {
+      "defaultOrganizationId" : "",
+      "email" : "pauline@gmail.com",
+      "firebase_instance_id" : "cLKuX6yqdxI",
+      "firebase_instance_token" : "cLKuX6yqdxI:APA91bFO4E_tebpFEfS3cTTRjyvR-NSTvXlmvkbh8ne_7t1udfEzyKDdXGJJlsP8hk8CHev_oEtONW2X7unainoQUFD2NrMENdn2pN_BkRYYpx4nS6p-z11kSniMnK-B2DI84CFehS42",
+      "firstName" : "pauline",
+      "imageURL" : "67afed21-0c06-4a09-9c33-0a46192d4350",
+      "lastName" : "kamau",
+      "phoneNumber" : "",
+      "username" : ""
+    },
+    "DfmbhFj7jZQXtJU58nViA3mb0Sv1" : {
+      "defaultOrganizationId" : "-LslNj9u9-Zqgc0y9Rqv",
+      "email" : "jay@kplc.org",
+      "firebase_instance_id" : "cLKuX6yqdxI",
+      "firebase_instance_token" : "cLKuX6yqdxI:APA91bFO4E_tebpFEfS3cTTRjyvR-NSTvXlmvkbh8ne_7t1udfEzyKDdXGJJlsP8hk8CHev_oEtONW2X7unainoQUFD2NrMENdn2pN_BkRYYpx4nS6p-z11kSniMnK-B2DI84CFehS42",
+      "firstName" : "jay",
+      "imageURL" : "9508aa32-4173-42e0-bddf-9042df64dc7c",
+      "lastName" : "jay",
+      "phoneNumber" : "",
+      "username" : ""
+    },
+    "y6XMHyPBEvgVwEVl1XPh3XzYMys1" : {
+      "defaultOrganizationId" : "-LslLe2colNH_aJWFEsk",
+      "email" : "kamauleah35@gmail.com",
+      "firebase_instance_id" : "dX_XRHqOX6Y",
+      "firebase_instance_token" : "dX_XRHqOX6Y:APA91bFpoHnIVkll-1uyYQgpWtkrMrvKHfceVCRBx49WZgIm1oPQMP-un5Fu4kBiKfjT2vZsoQrd4x0M5XzT7nMTNoMo6ENone1BJXgMbxVyWisHSJgYqQ2RXfeJJX_1f3-Y_z4LwQ8k",
+      "firstName" : "Leah",
+      "imageURL" : "9a434fcd-1632-41b4-a1ad-aa06f71cd6ea",
+      "lastName" : "Kamau",
+      "phoneNumber" : "",
+      "username" : ""
+    }
+  }
+}
