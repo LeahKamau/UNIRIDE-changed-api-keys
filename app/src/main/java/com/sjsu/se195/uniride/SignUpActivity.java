@@ -100,6 +100,8 @@ public class SignUpActivity extends BaseActivity implements View.OnClickListener
         mAuth.createUserWithEmailAndPassword(email, password).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
+
+                hideProgressDialog();
                 if (task.isSuccessful()) {
                     onAuthSuccess(task.getResult().getUser());
                 } else {

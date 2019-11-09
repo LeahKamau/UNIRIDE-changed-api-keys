@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/UNIRIDE-changed-api-keys.iml" filepath="$PROJECT_DIR$/UNIRIDE-changed-api-keys.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rkamere20-uniride-a7e15f575de0.iml" filepath="$PROJECT_DIR$/rkamere20-uniride-a7e15f575de0.iml" />
     </modules>
   </component>
 </project>

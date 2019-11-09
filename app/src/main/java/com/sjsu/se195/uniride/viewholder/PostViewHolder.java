@@ -1,6 +1,8 @@
 package com.sjsu.se195.uniride.viewholder;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -63,7 +65,10 @@ public class PostViewHolder extends RecyclerView.ViewHolder {
     }
 
     private String trimAddress(String adr){
-        String result = adr.substring(0, adr.indexOf(", CA"));
+
+        Log.e("error ---------->",adr.toString());
+
+        String result = adr.substring(0, adr.indexOf(","));
         String[] r = result.split(" ");
         boolean firstCharacter = false;
         if(r.length>1){
